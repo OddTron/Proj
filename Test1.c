@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main() {
-    printf("Let's make a timer!");
+    printf("Dilan is not a monster!");
     return 0;
 }
