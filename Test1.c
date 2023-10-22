@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main() {
-    printf("Dilan is not a monster!");
+    printf("Test");
     return 0;
 }
